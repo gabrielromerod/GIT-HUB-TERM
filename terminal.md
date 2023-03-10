@@ -151,3 +151,42 @@ Los comandos de navegación se usan para moverse por los directorios. Estos coma
 
 5. mkdir - Create a Folder crea una carpeta el directorio actual:
 ![mkdir Image](https://generalassembly.github.io/prework/cl/Graphics/terminal_rm_r.gif)
+
+Ahora que ya sabemos los comandos de navegación básicos, es hora de unos ejercicios para practicar.
+
+#### Ejercicios
+
+1. Muevete al escritorio usando el comando **cd**. Crea una carpeta llamada **prueba** usando el comando **mkdir**. Muevete a la carpeta **prueba** usando el comando **cd**. Crea un archivo llamado **prueba.txt** usando el comando **cat**. Vuelve al escritorio usando el comando **cd**. Elimina la carpeta **prueba** usando el comando **rm -r**.
+
+Solución:
+
+```bash
+cd Desktop
+mkdir prueba
+cd prueba
+cat > prueba.txt
+cd ..
+rm -r prueba
+```
+2. Crea dos carpetas en el escritorio llamadas **prueba1** y **prueba2**. Muevete a la carpeta **prueba1**. Crea un archivo llamado **prueba1.txt**. Muevete a la carpeta **prueba2**. Crea un archivo llamado **prueba2.txt**. Muevete al escritorio. Copia la carpeta **prueba1** a la carpeta **prueba2** usando el comando **cp**. Muevete a la carpeta **prueba2**. Muevete a la carpeta **prueba1**. Mueve el archivo **prueba1.txt** a la carpeta **prueba2** usando el comando **mv**. Muevete a la carpeta **prueba2**. Elimina la carpeta **prueba1** usando el comando **rm -r**.
+
+Solución:
+
+```bash
+mkdir prueba1
+mkdir prueba2
+cd prueba1
+cat > prueba1.txt
+cd ..
+cd prueba2
+cat > prueba2.txt
+cd ..
+cp -r prueba1 prueba2
+cd prueba2
+cd prueba1
+mv prueba1.txt ../prueba2
+cd ..
+cd prueba2
+rm -r prueba1
+```
+
