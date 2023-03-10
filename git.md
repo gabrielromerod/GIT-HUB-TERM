@@ -50,3 +50,11 @@ git config --list
 ```
 
 ## Creación de un repositorio
+
+¿Qué es un repositorio? Un repositorio es un directorio que contiene todos los archivos de un proyecto, incluyendo el historial de cambios. Los repositorios de Git se almacenan en un directorio oculto llamado `.git`.
+
+Para crear un repositorio, debes ejecutar el siguiente comando:
+
+```bash
+git init
+```
