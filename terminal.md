@@ -57,3 +57,16 @@ La terminal de comandos de Windows **CMD** fue la primera terminal que se usó e
 Nota: Una shell es un programa que permite a los usuarios interactuar con el sistema operativo. En otras palabras, es un intérprete de comandos. La shell más popular es Bash, la cual es la shell por defecto en la mayoría de las distribuciones de Linux.
 
 ## Introducción a la terminal - Comandos básicos
+
+### ¿Cómo abrir la terminal?
+La terminal esta disponible en todos los sistemas operativos, y se puede abrir de diferentes maneras. 
+
+En Windows, la terminal se puede abrir de dos maneras:
+
+1. Abrimos la barra de búsqueda y escribimos **PowerShell**:
+
+![PowerShell](https://i.imgur.com/vgAqKO0.png)
+
+2. Le damos click al PowerShell que aparece en la barra de búsqueda y se abre la terminal:
+
+![PowerShell](https://i.imgur.com/K6jOFPu.png)
