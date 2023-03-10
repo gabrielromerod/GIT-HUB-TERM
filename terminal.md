@@ -46,11 +46,11 @@ La terminal de comandos de Windows **CMD** fue la primera terminal que se usó e
 
 - MAC y Linux cuentan con famoso un shell llamado Unix, dicho shell es más conocido como bash. Dentro de sus principales caracteristicas permite la integracion de herramientas para desarrolladores con facilidad.
 
-    1. Ubuntu Terminal:
+    - Ubuntu Terminal:
     
     ![Ubuntu Terminal Image](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots/ubuntu-bash.png)
 
-    2. Mac OS Terminal:
+    - Mac OS Terminal:
 
     ![Mac OS Terminal Image](https://tecno-adictos.com/wp-content/uploads/2021/06/Como-usar-la-terminal-macOS-una-guia-para-principiantes.png)
 
