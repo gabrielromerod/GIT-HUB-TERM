@@ -2,8 +2,6 @@
 
 Git es un sistema de control de versiones distribuido de código abierto que se utiliza para rastrear cambios en archivos y colaborar en proyectos de software con un equipo de programadores. Fue desarrollado originalmente por Linus Torvalds en 2005 para gestionar el desarrollo del kernel de Linux, pero ahora es ampliamente utilizado en proyectos de todo tipo y tamaño.
 
-Git permite a los desarrolladores trabajar de manera colaborativa en proyectos de software, ya que permite la creación de ramas (branch) para trabajar en diferentes características o solucionar bugs sin afectar el trabajo principal en la rama principal (master). Además, Git proporciona herramientas para fusionar cambios de diferentes ramas y revertir cambios incorrectos o no deseados. Git también tiene capacidades de seguimiento de cambios que permiten a los desarrolladores retroceder en el tiempo y ver cómo ha evolucionado un archivo o proyecto en el tiempo.
-
 ## ¿Qué es un sistema de control de versiones?
 
 Un sistema de control de versiones (VCS, por sus siglas en inglés) es una herramienta de software que permite a los desarrolladores rastrear y gestionar los cambios realizados en el código fuente y otros archivos de un proyecto de software.
@@ -27,3 +25,28 @@ Algunas de las funciones principales que ofrece Git son:
 - Historial de cambios: Permite revisar los cambios realizados en un archivo a lo largo del tiempo, lo que facilita la identificación de errores y el seguimiento de la evolución del proyecto.
 
 - Restauración de versiones anteriores: Permite recuperar versiones antiguas de un archivo, lo que es útil en caso de errores o fallos en el código.
+
+## ¿Por qué usar Git?
+
+Git es un sistema de control de versiones distribuido, lo que significa que cada desarrollador tiene una copia completa del historial de cambios de un proyecto, incluyendo todos los archivos y metadatos. Esto permite a los desarrolladores trabajar de forma independiente sin tener que conectarse a un servidor central, lo que facilita la colaboración y la gestión de proyectos de gran tamaño.
+
+## Instalación de Git
+
+Para instalar Git en Windows, macOS o Linux, puedes seguir las instrucciones de la [página oficial de Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+## Configuración de Git
+
+Para configurar Git, debes establecer tu nombre de usuario y dirección de correo electrónico. Esto se hace con los siguientes comandos:
+
+```bash
+git config --global user.name "Gabriel Romero"
+git config --global user.email "gabriel.romero@utec.edu.pe"
+```
+
+Utilice el mismo correo electrónico que usó para su cuenta de GitHub. Para verificar que la configuración se haya realizado correctamente, puede ejecutar el siguiente comando:
+
+```bash
+git config --list
+```
+
+## Creación de un repositorio
