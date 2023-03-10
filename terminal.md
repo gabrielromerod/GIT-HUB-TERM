@@ -85,3 +85,24 @@ Terminal en Linux:
 Terminal en Mac:
 
 ![Mac Terminal](https://media.idownloadblog.com/wp-content/uploads/2021/12/Terminal-Command-Window-Mac.png)
+
+### Comandos básicos
+
+Ahora que ya sabemos cómo abrir la terminal, es hora de aprender los comandos básicos que se usan en la terminal.
+
+A diario nosotros nos movemos por la computadora usando el mouse, pero en la terminal se usan comandos para moverse por la computadora. Estos comandos se llaman **comandos de navegación**.
+
+El explorador de archivos de Windows se llama **Explorador de archivos**, y en la terminal se llama **Directorio**. En la terminal, el directorio actual se llama **Directorio de trabajo**.
+
+Explorador de archivos en Windows:
+
+![Windows Explorer](https://www.adslzone.net/app/uploads-adslzone.net/2020/10/panel-acceso-rapido-655x500.jpg)
+
+Explorador de archivos en Linux:
+
+![Linux Directory](https://ubunlog.com/wp-content/uploads/2018/02/Nautilus.jpg)
+
+Explorador de archivos en Mac: Más conocido como Finder en Mac, es el explorador de archivos por defecto en Mac.
+
+![Mac Finder](https://i.blogs.es/81404d/es1/1366_2000.jpg)
+
