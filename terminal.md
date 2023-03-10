@@ -59,9 +59,12 @@ Nota: Una shell es un programa que permite a los usuarios interactuar con el sis
 ## Introducción a la terminal - Comandos básicos
 
 ### ¿Cómo abrir la terminal?
+
 La terminal esta disponible en todos los sistemas operativos, y se puede abrir de diferentes maneras. 
 
-En Windows, la terminal se puede abrir de dos maneras:
+- Windows:
+
+En Windows, la terminal se puede abrir de muchas maneras, pero la más sencilla es a través de la barra de búsqueda:
 
 1. Abrimos la barra de búsqueda y escribimos **PowerShell**:
 
@@ -70,3 +73,15 @@ En Windows, la terminal se puede abrir de dos maneras:
 2. Le damos click al PowerShell que aparece en la barra de búsqueda y se abre la terminal:
 
 ![PowerShell](https://i.imgur.com/K6jOFPu.png)
+
+- Linux y Mac:
+
+Para abrir la terminal en Linux o Mac, podemos usar la combinación de teclas **Ctrl + Alt + T**.
+
+Terminal en Linux:
+
+![Linux Terminal](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/ba76cbf3dc8dc2cc94d26dd61c7aad3cedcd5102.png)
+
+Terminal en Mac:
+
+![Mac Terminal](https://media.idownloadblog.com/wp-content/uploads/2021/12/Terminal-Command-Window-Mac.png)
