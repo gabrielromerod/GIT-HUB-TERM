@@ -1,2 +1,12 @@
-# GIT-HUB-TERM
-Este repositorio ofrece una guía introductoria a la terminal para facilitar el aprendizaje de Git y Github. Ideal para principiantes en programación que desean comprender los fundamentos de control de versiones y colaboración en equipo en el desarrollo de software.
+# Git y GitHub
+
+## Gabriel Romero
+
+Este repositorio explica el uso de Git y GitHub para el uso diario de los desarrolladores. El repositorio contiene ejemplos de comandos y ejemplos de uso de Git y GitHub.
+
+El nivel de conocimiento de Git y GitHub es básico, por lo que no es necesario tener conocimientos previos de Git y GitHub.
+
+## Tabla de contenidos
+
+1. [Introducción a la terminal](./terminal.md)
+2. [Introducción a Git](./git.md)
