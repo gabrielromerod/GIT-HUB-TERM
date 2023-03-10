@@ -106,3 +106,48 @@ Explorador de archivos en Mac: Más conocido como Finder en Mac, es el explorado
 
 ![Mac Finder](https://i.blogs.es/81404d/es1/1366_2000.jpg)
 
+Es importante tener en cuenta el explorador de archivos que se usa en cada sistema operativo, ya que en la terminal nos movemos por los directorios, y no por los exploradores de archivos.
+
+Los directorios se organizan en una estructura de árbol, y el directorio raíz es el directorio más alto de la estructura. En Windows, el directorio raíz se llama **C:\**, y en Linux y Mac se llama **/**.
+
+> C:\ es el directorio raíz en Windows
+
+> / es el directorio raíz en Linux y Mac
+
+En la terminal, el directorio raíz se llama **Directorio raíz**.
+
+Si quiere saber más sobre la estructura de directorios, puede leer el artículo [¿Qué es un directorio en informática ](https://www.hostgator.mx/blog/que-es-un-directorio/).
+
+Ahora que ya sabemos cómo se organizan los directorios, es hora de aprender los comandos de navegación.
+
+#### Comandos de navegación
+
+Los comandos de navegación se usan para moverse por los directorios. Estos comandos son:
+
+  * **pwd**: Muestra el directorio de trabajo actual.
+  * **cd**: Cambia el directorio de trabajo actual.
+    * **cd ..**: Cambia al directorio padre del directorio de trabajo actual.
+  * **ls**: Muestra los archivos y directorios del directorio de trabajo actual.
+  * **mkdir**: Crea un directorio.
+  * **touch**: Crea un archivo.
+  * **rm**: Elimina un archivo.
+  * **rm -r**: Elimina un directorio.
+  * **mv**: Mueve un archivo o directorio.
+  * **cp**: Copia un archivo o directorio.
+  * **cat**: Muestra el contenido de un archivo.
+  * **clear**: Limpia la pantalla de la terminal.
+
+1. cd - Change Directory permite moverse entre directorios una actividad que hacemos a diario en el explorador de archivos:
+![Change Directory Image](https://generalassembly.github.io/prework/cl/Graphics/terminal_cd.gif)
+
+2. ls - List Files permite ver las carpetas y archivos:
+![List Files Image](https://www.solvetic.com/uploads/monthly_03_2017/tutorials-7463-0-36962500-1489423518.jpg)
+
+3. dir - List Files permite ver las carpetas y archivos en Windows:
+![List Files Image](https://www.solvetic.com/uploads/monthly_03_2017/tutorials-7463-0-36962500-1489423518.jpg)
+
+4. pwd - Print Working Directory muestra el directorio actual, para windows cd solo te muestra la ubicación:
+![PWD Image](https://generalassembly.github.io/prework/cl/Graphics/terminal_ls.gif)
+
+5. mkdir - Create a Folder crea una carpeta el directorio actual:
+![mkdir Image](https://generalassembly.github.io/prework/cl/Graphics/terminal_rm_r.gif)
